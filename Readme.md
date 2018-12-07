@@ -1,6 +1,6 @@
-# monopoly
+# Clubworld Monopoly
 
-A JavaScript/HTML/CSS Monopoly implementation with full game play. Supports two-eight players.
+A JavaScript/HTML/CSS Monopoly implementation featuring Clubworld and Ian Burdock
 
 Play online at [https://deanwild.co.uk/clubopoly](https://deanwild.co.uk/clubopoly).
 
